@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaSECode.iml" filepath="$PROJECT_DIR$/JavaSECode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter02/chapter02.iml" filepath="$PROJECT_DIR$/chapter02/chapter02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter04/chapter04.iml" filepath="$PROJECT_DIR$/chapter04/chapter04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter05_array/chapter05_array.iml" filepath="$PROJECT_DIR$/chapter05_array/chapter05_array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter07_oop/chapter07_oop.iml" filepath="$PROJECT_DIR$/chapter07_oop/chapter07_oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter08_oop3/chapter08_oop3.iml" filepath="$PROJECT_DIR$/chapter08_oop3/chapter08_oop3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datastruct/datastruct.iml" filepath="$PROJECT_DIR$/datastruct/datastruct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module13/module13.iml" filepath="$PROJECT_DIR$/module13/module13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module15/module15.iml" filepath="$PROJECT_DIR$/module15/module15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module16/module16.iml" filepath="$PROJECT_DIR$/module16/module16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module17/module17.iml" filepath="$PROJECT_DIR$/module17/module17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module18/module18.iml" filepath="$PROJECT_DIR$/module18/module18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module19/module19.iml" filepath="$PROJECT_DIR$/module19/module19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module20/module20.iml" filepath="$PROJECT_DIR$/module20/module20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module21/module21.iml" filepath="$PROJECT_DIR$/module21/module21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module22/module22.iml" filepath="$PROJECT_DIR$/module22/module22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module23/module23.iml" filepath="$PROJECT_DIR$/module23/module23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
