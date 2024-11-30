@@ -28,14 +28,14 @@ public class Demo02Property {
 
 
 
-public interface test1<Integer>{
-    public void method(Integer integer){
+interface test1<Integer>{
+    public default void method(Integer integer){
         System.out.println(integer);
     }
 }
 
-public interface test2{
-    public void method(Object object){
+interface test2{
+    public default void method(Object object){
         System.out.println(object);
     }
 }
