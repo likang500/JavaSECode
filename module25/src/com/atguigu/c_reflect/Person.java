@@ -7,14 +7,16 @@ package com.atguigu.c_reflect;
  */
 public class Person {
     private String name;
-    public int age;
+    private int age;
 
     public Person(String name, int age) {
         this.name = name;
         this.age = age;
     }
-    Person(){
+    private Person(String name){
         this.name = name;
+    }
+    public Person(){
     }
 
     @Override
@@ -39,5 +41,8 @@ public class Person {
 
     public void setName(String name) {
         this.name = name;
+    }
+    private void eat(){
+        System.out.println("人要吃饭");
     }
 }

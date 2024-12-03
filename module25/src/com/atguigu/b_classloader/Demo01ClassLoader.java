@@ -15,6 +15,7 @@ public class Demo01ClassLoader {
     }
 
     private static void boot() {
+
     }
 
     private static void ext() {
