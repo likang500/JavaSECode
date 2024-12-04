@@ -6,4 +6,6 @@ package com.atguigu.c_reflect;
  * @function
  */
 public class Student {
+    private String name;
+    public int age;
 }

@@ -44,7 +44,7 @@ public class Demo08GetMethod {
         System.out.println("invoke = " + invoke);
     }
 
-    private static void method01() {
+    static void method01() {
         Class<Person> personClass = Person.class;
         Method[] methods = personClass.getMethods();
         for (Method method : methods) {
